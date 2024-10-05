@@ -1,4 +1,4 @@
 # Futtatás:
 
-bun install
+bun install,
 bun run dev
